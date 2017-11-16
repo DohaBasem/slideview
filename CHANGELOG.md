@@ -17,4 +17,9 @@ Version 1.0.1 *(2017-07-02)*
 Version 1.0.2 *(2017-09-19)*
 ----------------------------
 
-- Fix issue where SlideView's parent view intercepts touch events. 
+- Fix issue where SlideView's parent view intercepts touch events.
+
+Version 1.0.3 *(2017-11-16)*
+----------------------------
+
+- Update internal dependencies.
